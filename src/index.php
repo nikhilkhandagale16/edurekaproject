@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>AWS DevOps Project</h1>
+                <h1>AWS DevOps Project- with SNS notification</h1>
                 <h2>Project is running on Container</h2>
                 <p>PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
