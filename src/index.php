@@ -15,9 +15,9 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App</h1>
-                <h2>Congratulations</h2>
-                <p>Your PHP application is now running on a container in Amazon ECS.</p>
+                <h1>AWS DevOps Project</h1>
+                <h2>Project is running on Container</h2>
+                <p>PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
